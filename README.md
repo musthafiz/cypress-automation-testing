@@ -14,9 +14,6 @@
   npm install -D cypress-xpath
 ```
 
-```bash
-  npm -i init
-```
 "# Then include in your project's support file"   
 
  require('cypress-xpath');

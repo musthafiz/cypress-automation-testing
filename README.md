@@ -1,4 +1,7 @@
-"# npm -i init"       
+```bash
+  npm -i init
+```
+"# "       
 
 "# npm install cypress --save-dev"      
 
